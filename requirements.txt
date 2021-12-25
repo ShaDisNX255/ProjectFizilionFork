@@ -68,3 +68,4 @@ validators==0.18.2
 aiofiles
 git+https://github.com/code-rgb/search-engine-parser
 patool
+duckduckgo_search
